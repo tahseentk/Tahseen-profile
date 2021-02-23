@@ -13,7 +13,7 @@ body{
 	margin: 10px;
 	padding: 10px;
 	text-align: center;
-	left: 350px;
+	left: 650px;
 	position: relative;
 	background: #f4976c;
 	color: #f1f6f9;
@@ -21,16 +21,6 @@ body{
 .upper{
 	display:flex ;
 }
-.piR{
-
-	position: relative;
-	width: 200px;
-	border:5px solid #303c6c;
-	height: 300px;
-	left: 520px;
-	top: 25px;
-}
-
 .pii{
 	
 	width:200px;
